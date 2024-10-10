@@ -4,9 +4,9 @@ Project Overview ---
 This repository contains the source code and associated files for the assessment project. The project demonstrates various programming concepts and problem-solving approaches using the C programming language.
 
 Files In the Repository --- 
-1. assessment.c - The main source code file containing the implementation of the restaurant ordering system.
+1. assesment.c - The main source code file containing the implementation of the restaurant ordering system.
 2. README.md - This README file, providing an overview of the project.
-3. output.txt - Sample output from running the program for reference.
+3. Assesment.exe - Sample output from running the program for reference.
 
 Features ---
 1. A menu system that offers five food items (Pizza, Dosa, Burger, Idli, Pasta).
